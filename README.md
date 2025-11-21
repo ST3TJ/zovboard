@@ -1,4 +1,4 @@
-# zov-keyboard-mapper
+# zovboard
 
 Простой Windows-хук для переназначения русских букв на латиницу.
 
@@ -10,7 +10,7 @@
 ## Сборка
 Компилировать под Windows x64 с поддержкой C++17 или выше:
 ```bash
-cl /EHsc /W4 /MD zov_keyboard_mapper.cpp
+cl /EHsc /W4 /MD zovboard.cpp
 ```
 
 ## Использование
